@@ -4,7 +4,10 @@
   "description": "this project is for experimenting",
   "author": "LecAnibal <anibsanmor@gmail.com>",
   "devDependencies": {
-	"express":"4.14.0",
-	"body-parser":"1.16.0"
-	}
+    "express": "4.14.0",
+    "body-parser": "1.16.0",
+    "gulp": "^3.9.1",
+    "icon-font-generator": "1.1.1",
+    "child_process": "^1.0.2"
+  }
 }
